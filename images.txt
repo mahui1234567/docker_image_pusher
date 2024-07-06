@@ -1,4 +1,4 @@
-gaciaga/nginx-vts:1.11.12-alpine-vts-0.1.14
+niruix/sshwifty:latest
 sophos/nginx-vts-exporter
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
